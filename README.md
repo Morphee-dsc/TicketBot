@@ -1,5 +1,5 @@
 # TicketBot
-Bot Ticket fais par "inspidusoir" sur discord
+Bot Ticket fais par "shad0w_.333" sur discord
 
 
 npm i && node index.js
